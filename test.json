@@ -1,1 +1,1 @@
-{"url":"https://github.com/martin-yeung/autoupdate/releases/download/1.3/sample-release-1.3.apk","versionName":"1.3","versionCode":4,"updateMessage":"1. 适配 Android 8.0\n2. 适配 Android 9.0\n3. 增加通知栏channel检测\n4. 增加强制更新","isMustUpdate":true}
+{"url":"https://github.com/martin-yeung/autoupdate/releases/download/1.3/autoupdate-release-1.3.apk","versionName":"1.3","versionCode":4,"updateMessage":"1. 适配 Android 8.0\n2. 适配 Android 9.0\n3. 增加通知栏channel检测\n4. 增加强制更新","isMustUpdate":true}
